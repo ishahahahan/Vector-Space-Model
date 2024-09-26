@@ -7,5 +7,6 @@
 
 ## Output
 
-![alt text] https://github.com/ishahahahan/Vector-Space-Model/blob/master/output/vsm-query%20output.png?raw=true
+![image](https://github.com/user-attachments/assets/ca3a8db1-b2cc-4b2b-bca5-76b6df79cb46)
+
 
