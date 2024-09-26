@@ -1,7 +1,7 @@
 # Vector Space Model Implementation
 
 ### Group detail
-1. Arham Jain, 22101109
+1. Arham Jain, 2210110924
 2. Ishan Das, 2210110913
 
 
